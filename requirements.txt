@@ -6,4 +6,4 @@ pytesseract
 PyPDF2
 torch
 transformers
-
+groq
