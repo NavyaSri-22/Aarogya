@@ -4,4 +4,6 @@ Pillow
 pdf2image
 pytesseract
 PyPDF2
+torch
+transformers
 
